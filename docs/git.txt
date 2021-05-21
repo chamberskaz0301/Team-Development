@@ -11,11 +11,12 @@
 
 ## issues
 - Milestonesをさらに細分化する
+- ラベルを設定する
 
 
 ## branch
-- master: 本番リリース or コントリビューター作業用
-- development: 開発用(クローン用)
+- master: 本番リリース or コントリビュータープッシュ用
+- development: 開発用(クローン用) or コントリビューター作業用
 
 - dev_<名前>: コラボレータープッシュ用
 - dev_<作業内容>: 作業ブランチ
@@ -38,3 +39,4 @@
 ## Pull requests
 - 他の人のレビュー必須
 - close #<issues番号>でissuesを閉じる
+- ラベルを設定する
