@@ -1,0 +1,40 @@
+# git
+
+## Projects
+- システム（機能）単位
+
+## Milestones
+- 締め切りを設定する
+- Projectsをさらに細分化する
+- 細かなシステム単位
+
+
+## issues
+- Milestonesをさらに細分化する
+
+
+## branch
+- master: 本番リリース or コントリビューター作業用
+- development: 開発用(クローン用)
+
+- dev_<名前>: コラボレータープッシュ用
+- dev_<作業内容>: 作業ブランチ
+
+### 作業内容
+- bug
+- doc
+- feature: 新機能
+
+
+## commit
+- issues単位、キリのいいタイミングで
+- 作業内容 #<issues番号>
+
+
+## push
+- 随時
+
+
+## Pull requests
+- 他の人のレビュー必須
+- close #<issues番号>でissuesを閉じる
